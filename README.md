@@ -4,7 +4,7 @@ This repository contains links to all the experiments for the Artificial Intelli
 ## Experiments
 
 ### 1. Turing Test and CAPTCHA
-[Turing Test and CAPTCHA Repository](PASTE_REPO_LINK_HERE)
+[Turing Test and CAPTCHA Repository]([PASTE_REPO_LINK_HERE](https://github.com/sreshthaa/Uninformed-Search-Algorithms---BFS-and-DFS-))
 
 ### 2. AQI Simple Reflex Agent
 [AQI Agent Repository](PASTE_REPO_LINK_HERE)
